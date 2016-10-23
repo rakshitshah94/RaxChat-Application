@@ -1,6 +1,9 @@
 # RaxChat-Application
 Chat application using CLIENT SERVER MODEL.USED Languages #PHP #AJAX #CSS3 #HTML5 #no-DATABASE
 RaxChat is open source to understand how to make simple chat application using normal languages like <html, css, js, ajax, php>.
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-mXfk0Nv6WP0/WA0IeJFyQpI/AAAAAAAAI8s/BThHdBBcH6Uu-KPjtr4swU8cuEfezJOIgCLcB/s1600/RaxChat%2BLogo.png"/>
+</p>
 
 # How to install and run application?
 1. First download and install XAMPP or WAMP(Any), Its server to use your system as localhost server. You can press start button to verify if it is installed successfully? [Type "localhost" or "127.0.0.1" in your any browser to check whether it is running or not.]

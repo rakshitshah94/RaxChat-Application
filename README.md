@@ -34,3 +34,8 @@ you can see index file will running and asking for "Enter your name:" , Write yo
 5. You can see chat application in your device as well as globally any devices (Laptop/tablet/mobile... any)
 
 
+
+<hr>
+<h3>If you like this work, Share your some love, That will be appreciated!<h3>
+<a href="https://www.buymeacoffee.com/9mood" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
